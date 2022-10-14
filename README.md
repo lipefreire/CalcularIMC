@@ -1,7 +1,11 @@
-# CalcularIMC
+# CALCULAR IMC 
+Atividade praticada em sala de aula para desenvolvimento de um aplicativo capaz de calcular o Índice de massa corporal de um usuário.
 
-# Data: 14/10/2022
+# Professor 🧑‍💻
+Leonardo Corsino Campello
 
-Atividade desenvolvida em sala de aula, aplicativo React Native para calcular o IMC.
-
+# Informações 
+ ReactNative
+ Vscode
+ 
 - Felipe Freire
