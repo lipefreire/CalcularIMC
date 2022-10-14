@@ -19,7 +19,7 @@ export default function App() {
       <TextInput style={styles.input} value={peso} onChangeText={(peso) => setPeso(peso)} keyboardType='number-pad'/>
 
       <Text style={styles.texto1}>Altura: </Text>
-      <TextInput style={styles.input} value={altura} onChangeText={(altura) => setAltura(altura)} keyboardType=''/>
+      <TextInput style={styles.input} value={altura} onChangeText={(altura) => setAltura(altura)} keyboardType='number-pad'/>
 
       <Button title={"Calcular"} onPress={calcularIMC}/>
       <StatusBar style="auto" />
